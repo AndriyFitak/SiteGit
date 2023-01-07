@@ -1,0 +1,196 @@
+body{
+    position: relative;
+width: 1870px;
+
+
+background: #FFFFFF;
+}
+
+
+
+.headerphoto1{
+width: 500px;
+height: 120px;
+margin-left: 8px;
+margin-top: 30px;
+}
+
+
+
+.headertext1{
+outline: none;
+position: absolute;
+width: 150px;
+height: 33px;
+left: 810px;
+top: 85px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 30px;
+outline:none;
+text-decoration: none;
+
+color: #000000;
+
+}
+    .headertext2{
+        position: absolute;
+        width: 100px;
+        height: 35px;
+        left: 1014px;
+        top: 85px;
+        
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 25px;
+        line-height: 30px;
+        text-decoration: none;
+        
+        color: #000000;
+}
+    
+.headertext3{
+    position: absolute;
+    width: 210px;
+    height: 33px;
+    left: 1190px;
+    top: 85px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 30px;
+    
+    color: #000000;
+    text-decoration: none;
+}
+
+.headerphoto2 {
+position: absolute;
+width: 32px;
+height: 32px;
+left: 1460px;
+top: 90px;
+}
+
+
+.contact-link{
+position: absolute;
+width: 113px;
+height: 24px;
+left: 1510px;
+top: 85px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+text-decoration: none;
+}
+
+.contact-link1 {
+    position: absolute;
+width: 113px;
+height: 24px;
+left: 1510px;
+top: 109px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+text-decoration: none;
+}
+
+.SiteGitphoto1{
+position: absolute;
+width: 2025px;
+height: 933px;
+left: 0px;
+top: 200px;
+}
+
+.SiteGittext1{
+position: absolute;
+width: 495.16px;
+height: 254.84px;
+left: 600.38px;
+top: 504.22px;
+
+font-family: 'Inter';
+font-style: bold;
+font-weight: 1500;
+font-size: 250px;
+line-height: 303px;
+
+color: #1144F9;
+}
+
+.SiteGittext2{
+position: absolute;
+width: 378.77px;
+height: 319.07px;
+left: 1000.54px;
+top: 504.22px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 250px;
+line-height: 303px;
+
+color: #000000;
+}
+
+.sitegittext1{
+    position: absolute;
+    width: 589px;
+    height: 47px;
+    left: 740px;
+    top: 787px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 30px;
+    line-height: 36px;
+    
+    color: #FFFFFF;
+    
+}
+
+.sitegittext2{
+    position: absolute;
+    width: 234px;
+    height: 72px;
+    left: 900px;
+    top: 834px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 30px;
+    line-height: 36px;
+    
+    color: #FFFFFF;  
+}
+
+@media (max-width:320px ) {
+    .header{
+        display: none;
+    }
+    
+    
+}
+
